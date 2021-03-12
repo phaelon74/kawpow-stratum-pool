@@ -1,2 +1,1 @@
-Use with NodeJS to build your own Ravencoin pool to be used after the kawpow fork. Specific instructions will be added later.
-
+This is fork is identical in all aspects except where it calls merkle-bitcoin.git.  The original call was from https://github.com/joshuayabut/merkle-bitcoin.git but this is not longer available.  I have found it now in this location: https://github.com/jorgezaccaro/merkle-bitcoin.git
